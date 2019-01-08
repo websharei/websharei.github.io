@@ -1,15 +1,15 @@
 {
-  "app.js": "/static/js/app.0ff2c6f6.js",
-  "app.js.map": "/static/js/app.f2af66dfde0be518ac67.js.map",
-  "runtime~app.js": "/static/js/runtime~app.f2af66dfde0be518ac67.js",
-  "runtime~app.js.map": "/static/js/runtime~app.f2af66dfde0be518ac67.js.map",
-  "src-components-button-index.js": "/static/js/src-components-button-index.14527966.js",
-  "src-components-button-index.js.map": "/static/js/src-components-button-index.f2af66dfde0be518ac67.js.map",
-  "src-index.js": "/static/js/src-index.8a0962ff.js",
-  "src-index.js.map": "/static/js/src-index.f2af66dfde0be518ac67.js.map",
-  "vendors.js": "/static/js/vendors.7af73d38.js",
-  "vendors.js.map": "/static/js/vendors.f2af66dfde0be518ac67.js.map",
-  "static/js/5.e811f150.js": "/static/js/5.e811f150.js",
-  "static/js/5.f2af66dfde0be518ac67.js.map": "/static/js/5.f2af66dfde0be518ac67.js.map",
-  "index.html": "/index.html"
+  "app.js": "./static/js/app.785050d3.js",
+  "app.js.map": "./static/js/app.477845fd0e8b26f4498d.js.map",
+  "runtime~app.js": "./static/js/runtime~app.477845fd0e8b26f4498d.js",
+  "runtime~app.js.map": "./static/js/runtime~app.477845fd0e8b26f4498d.js.map",
+  "src-components-button-index.js": "./static/js/src-components-button-index.6e330f8b.js",
+  "src-components-button-index.js.map": "./static/js/src-components-button-index.477845fd0e8b26f4498d.js.map",
+  "src-index.js": "./static/js/src-index.8a0962ff.js",
+  "src-index.js.map": "./static/js/src-index.477845fd0e8b26f4498d.js.map",
+  "vendors.js": "./static/js/vendors.305537df.js",
+  "vendors.js.map": "./static/js/vendors.477845fd0e8b26f4498d.js.map",
+  "static/js/5.e811f150.js": "./static/js/5.e811f150.js",
+  "static/js/5.477845fd0e8b26f4498d.js.map": "./static/js/5.477845fd0e8b26f4498d.js.map",
+  "index.html": "./index.html"
 }
