@@ -1084,7 +1084,6 @@ table tr:hover {
   display: block;
   -webkit-border-radius: 8px 8px 0 0;
           border-radius: 8px 8px 0 0;
-  background-color: rgba(220, 235, 245, 0.2);
   background-position: center;
   -webkit-background-size: cover;
           background-size: cover;
@@ -1304,8 +1303,8 @@ table tr:hover {
   height: 100px;
   min-height: 700px;
   background-color: rgba(220, 235, 245, 0.2) !important;
-  -webkit-background-size: cover !important;
-          background-size: cover !important;
+  -webkit-background-size: contain !important;
+          background-size: contain !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
 }
